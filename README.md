@@ -2,33 +2,39 @@
 <h3 align="center">A passionate frontend developer from Algeria 🇩🇿</h3>
 
 <table align="center">
-  <tr>
-    <td width="40%" align="center">
-      <img src="./avatar.png" alt="Wail Falek avatar" width="260" />
-    </td>
-    <td width="60%">
+<tr>
+<td width="40%" align="center" valign="middle">
+<img src="./avatar-transparent.png" alt="Wail Falek avatar" width="260" />
+</td>
+<td width="60%" valign="top">
 
-### About me
+<h3>About me</h3>
 
-I'm **Wail Falek**, a passionate frontend developer from Algeria 💻, building modern web apps with **Next.js**, React and TypeScript.
+<p>I'm <b>Wail Falek</b>, a passionate frontend developer from Algeria 💻, building modern web apps with <b>Next.js</b>, React and TypeScript.</p>
 
-- 👨‍💻 All of my projects are available at [wael-falek-portfolio.vercel.app](https://wael-falek-portfolio.vercel.app)
-- 💬 Ask me about **Next.js**
-- 📫 How to reach me: **wailfalek1@gmail.com**
+<ul>
+<li>👨‍💻 All of my projects are available at <a href="https://wael-falek-portfolio.vercel.app">wael-falek-portfolio.vercel.app</a></li>
+<li>💬 Ask me about <b>Next.js</b></li>
+<li>📫 How to reach me: <b>wailfalek1@gmail.com</b></li>
+</ul>
 
-## Let's Connect..!
+<h2>Let's Connect..!</h2>
 
-[![Gmail](https://img.shields.io/badge/Gmail-wailfalek1-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wailfalek1@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@wael__falek-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/wael_falek)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wail%20Falek-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wail-falek)
-[![Facebook](https://img.shields.io/badge/Facebook-Wael%20Falek-1877F2?style=flat&logo=facebook&logoColor=white)](https://fb.com/wael.falek)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white)](https://wael-falek-portfolio.vercel.app)
+<p>
+<a href="mailto:wailfalek1@gmail.com"><img src="https://img.shields.io/badge/Gmail-wailfalek1-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://instagram.com/wael_falek"><img src="https://img.shields.io/badge/Instagram-@wael__falek-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://linkedin.com/in/wail-falek"><img src="https://img.shields.io/badge/LinkedIn-Wail%20Falek-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://fb.com/wael.falek"><img src="https://img.shields.io/badge/Facebook-Wael%20Falek-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://wael-falek-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 
-![Location](https://img.shields.io/badge/Location-Algeria-007ec6?style=flat)
-![Role](https://img.shields.io/badge/Role-Frontend%20Developer-007ec6?style=flat)
+<p>
+<img src="https://img.shields.io/badge/Location-Algeria-007ec6?style=flat" alt="Location" />
+<img src="https://img.shields.io/badge/Role-Frontend%20Developer-007ec6?style=flat" alt="Role" />
+</p>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <h3 align="left">Languages and Tools:</h3>
