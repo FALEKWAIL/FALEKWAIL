@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm FALEK Wail</h1>
 <h3 align="center">A passionate frontend developer from Algeria 🇩🇿</h3>
 
+<p align="center">
+  <a href="https://wael-falek-portfolio.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2FBFFF&center=true&vCenter=true&width=600&height=50&lines=Hey!+It's+Wail+Falek..%E2%99%A5;Full+Stack+Web+%26+Mobile+Developer;Cyber+Security+Student" alt="Typing animation" />
+  </a>
+</p>
+
 <table align="center">
 <tr>
 <td width="40%" align="center" valign="middle">
